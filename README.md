@@ -7,7 +7,7 @@ Love Babbar 450 DSA Question 🚀
 <ol type='1'>
   <li><a href="https://github.com/mkpatel-247/LoveBabber-DSA-Sheet/tree/main/Array">Arrays</a></li>
   <li><a href="#">Matrix</a></li>
-  <li><a href="#">Strings</a></li>
+  <li><a href="https://github.com/mkpatel-247/LoveBabber-DSA-Sheet/tree/main/Strings">Strings</a></li>
   <li><a href="#">Linked List</a></li>
   <li><a href="#">Stacks & Queues</a></li>
   <li><a href="#">Sorting and Searching</a></li>
