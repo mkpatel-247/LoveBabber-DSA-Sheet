@@ -10,7 +10,7 @@ Love Babbar 450 DSA Question 🚀
   <li><a href="https://github.com/mkpatel-247/LoveBabber-DSA-Sheet/tree/main/Strings">Strings</a></li>
   <li><a href="#">Linked List</a></li>
   <li><a href="#">Stacks & Queues</a></li>
-  <li><a href="#">Sorting and Searching</a></li>
+  <li><a href="https://github.com/mkpatel-247/LoveBabber-DSA-Sheet/tree/main/Searching%20%26%20Sorting">Sorting and Searching</a></li>
   <li><a href="#">Binary Trees</a></li>
   <li><a href="#">Binary Search Trees</a></li>
   <li><a href="#">Greedy</a></li>
