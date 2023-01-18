@@ -1,5 +1,5 @@
 //Question Link: https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1
-//Find first and last positions of an element in a sorted array
+//Find value similar to Index
 
 class Solution {
     ArrayList<Integer> valueEqualToIndex(int arr[], int n) {
