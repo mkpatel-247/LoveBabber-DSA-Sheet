@@ -1,4 +1,4 @@
-//Boore Voting Algorithm
+//Boyer-Moore Majority Voting Algorithm
 class Solution
 {
     static int majorityElement(int a[], int size)
