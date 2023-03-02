@@ -4,24 +4,24 @@ class Solution
     static int majorityElement(int a[], int size)
     {
         // your code here
-        int cnt = 0;
+        int count = 0;
         int el = 0;
         for(int n : a){
-            if(cnt == 0)
+            if(count == 0)
                 el = n;
             if(n == el)
-                cnt++;
+                count++;
             else
-                cnt--;
+                count--;
         }
         
-        cnt = 0;
+        count = 0;
         for(int n : a){
             if(el == n){
-                cnt++;
+                count++;
             }
         }
-        if(cnt > size/2) 
+        if(count > size/2) 
           return el;
         else 
           return -1;
