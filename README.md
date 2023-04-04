@@ -19,5 +19,5 @@ Love Babbar 450 DSA Question 🚀
   <li><a href="#">Graph</a></li>
   <li><a href="#">Trie</a></li>
   <li><a href="#">Dynamic Programming (DP)</a></li>
-  <li><a href="#">Bit Manipulation</a></li>
+  <li><a href="https://github.com/mkpatel-247/LoveBabber-DSA-Sheet/tree/main/Bit%20Manipulation">Bit Manipulation</a></li>
 </ol>
